@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="other_message">
+        <item name ="android:maxLines">10</item>
+        <item name ="android:background">@drawable/other_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="my_message">
+        <item name ="android:maxLines">10</item>
+        <item name ="android:background">@drawable/my_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="editTextStyle">
+        <item name="android:background">@color/bg</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+    <style name="editTextStyle2">
+        <item name="android:background">@drawable/et_background</item>
+        <item name="android:textColorHint">@color/editTextHintColor</item>
+    </style>
+
+    <style name="basic_button">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="fb_login_button">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversation</string>
+    <string name="button">send</string>
+    <string name="login_btn">Login</string>
+    <string name="login_btn_fb">Login with Facebook</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+</resources>
